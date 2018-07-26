@@ -20,7 +20,7 @@ sudo add-apt-repository ppa:bitcoin/bitcoin -y
 
 sudo apt update -y
 
-sudo apt install zip unzip
+sudo apt install zip unzip -y
 
 wget -q https://github.com/RenChern/QUIX/releases/download/Quix/quix.zip
 
